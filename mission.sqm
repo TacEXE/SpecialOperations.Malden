@@ -1,0 +1,25 @@
+version=53;
+class EditorData
+{
+	moveGridStep=1;
+	angleGridStep=0.2617994;
+	scaleGridStep=1;
+	autoGroupingDist=10;
+	toggles=1;
+	class Camera
+	{
+		pos[]={6000,58.950001,3200};
+		dir[]={0,0,1};
+		up[]={0,1,0};
+		aside[]={1,0,0};
+	};
+};
+binarizationWanted=0;
+class AddonsMetaData
+{
+};
+randomSeed=6764992;
+class ScenarioData
+{
+	author="TacEXE";
+};
